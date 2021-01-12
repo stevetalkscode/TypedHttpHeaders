@@ -1,7 +1,7 @@
 # Introduction 
-This repo contains my initial version of aindowalues that are injected via DI. 
+This repo contains my initial version of a library to add types representing HTTP header value that are injected via DI. 
 
-Committed in preparation for a blog post at https://stevetalkscode.co.uk
+This is still work in progress, but more information can be found at https://stevetalkscode.co.uk/stronglytypedheaders-part1
 
 # Getting Started
 Clone repo and build with VS2019 targeting .NET 5 at the moment.
